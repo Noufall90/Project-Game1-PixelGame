@@ -20,9 +20,18 @@ Arez has some power that comes from him summoning a spirit of light which is ins
 
 ## Game
 
-In the game creation progress, i have created some images like :
+The game will use UNITY engine with programing language C#.
+
+The modeling used aseprite, this is software for drawing pixels and their animations
+
+In the game creation progress, i have created some images :
 
 ![kingdom1](https://user-images.githubusercontent.com/123288172/213904102-72748f6f-6ebd-4577-8c3a-63bb21441987.png)
 
 The photo is the material that will be used in the game.
 
+## My profile
+
+Instagram 
+
+https://www.instagram.com/naupol.in_/?hl=id
